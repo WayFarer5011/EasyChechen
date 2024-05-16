@@ -78,7 +78,7 @@ export default function Home() {
                 age="25 лет"
                 phone="+7 928-643-25-83"
                 email="teacher51@gmail.com"
-                experience="3 года"
+                experience="3 года опыта"
                 position="Учитель Чеченского Языка"
                 image="/teacher_card-image-3.png"
               />
@@ -87,7 +87,7 @@ export default function Home() {
                 age="34 года"
                 phone="+7 928-643-25-83"
                 email="teacher51@gmail.com"
-                experience="10 лет"
+                experience="10 лет опыта"
                 position="Учитель Чеченского Языка"
                 image="/teacher_card-image-2.png"
               />
@@ -96,7 +96,7 @@ export default function Home() {
                 age="30 лет"
                 phone="+7 928-643-25-83"
                 email="teacher51@gmail.com"
-                experience="9 лет"
+                experience="9 лет опыта"
                 position="Учитель Чеченского Языка"
                 image="/teacher_card-image-6.png"
               />
@@ -105,7 +105,7 @@ export default function Home() {
                 age="28 лет"
                 phone="+7 928-643-25-83"
                 email="teacher51@gmail.com"
-                experience="7 лет"
+                experience="7 лет опыта"
                 position="Учитель Чеченского Языка"
                 image="/teacher_card-image-1.png"
               />
@@ -114,7 +114,7 @@ export default function Home() {
                 age="27 лет"
                 phone="+7 928-643-25-83"
                 email="teacher51@gmail.com"
-                experience="5 лет"
+                experience="5 лет опыта"
                 position="Учитель Чеченского Языка"
                 image="/teacher_card-image-5.png"
               />
@@ -123,7 +123,7 @@ export default function Home() {
                 age="22 года"
                 phone="+7 928-643-25-83"
                 email="teacher51@gmail.com"
-                experience="3 года"
+                experience="3 года опыта"
                 position="Учитель Чеченского Языка"
                 image="/teacher_card-image-4.png"
               />
